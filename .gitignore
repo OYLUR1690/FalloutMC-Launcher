@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+menu-mod/.gradle/
+menu-mod/build/
+release-output/
+client-input/
