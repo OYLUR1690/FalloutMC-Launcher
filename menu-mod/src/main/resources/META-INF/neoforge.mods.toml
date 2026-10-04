@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+[[mods]]
+modId="falloutmc_menu"
+version="0.1.0"
+displayName="FalloutMC Menu"
+description="Menu client dédié à FalloutMC."
+[[dependencies.falloutmc_menu]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.252,21.2)"
+ordering="NONE"
+side="CLIENT"
+[[dependencies.falloutmc_menu]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="CLIENT"
